@@ -11,7 +11,6 @@ This project is a **Natural Language Processing (NLP)** application that classif
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -68,11 +67,3 @@ You can find the dataset used for training and testing the model here: [SMS Spam
 ## Contributing
 
 Feel free to open issues or submit pull requests if you want to contribute to the project. All contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-You can customize the placeholders like the dataset link and project repository URL according to your project setup. Let me know if you'd like any changes!
