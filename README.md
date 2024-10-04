@@ -63,7 +63,7 @@ Once the application is running, you can input any SMS text message into the web
 
 ## Dataset
 
-You can find the dataset used for training and testing the model here: [SMS Spam Dataset](dataset_link_here). The dataset contains labeled examples of both spam and non-spam SMS messages.
+You can find the dataset used for training and testing the model here: [SMS Spam Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). The dataset contains labeled examples of both spam and non-spam SMS messages.
 
 ## Contributing
 
