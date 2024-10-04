@@ -57,7 +57,7 @@ Once the application is running, you can input any SMS text message into the web
 
 ### Example
 
-- **Input**: "Congratulations! You've won a $1000 Walmart gift card."
+- **Input**: Thanks for your subscription to Ringtone UK your mobile will be charged �5/month Please confirm by replying YES or NO. If you reply NO you will not be charged,,,
 - **Output**: **Spam**
 
 ## Dataset
